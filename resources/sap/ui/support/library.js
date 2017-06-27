@@ -31,7 +31,7 @@ sap.ui.define(["sap/ui/core/library"],
 		controls: [],
 		elements: [],
 		noLibraryCSS: false,
-		version: "1.48.2"
+		version: "1.48.3"
 	});
 
 	sap.ui.support.Severity = {
