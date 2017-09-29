@@ -6,7 +6,7 @@
 	<copyright>UI development toolkit for HTML5 (OpenUI5)
  * (c) Copyright 2009-2017 SAP SE or an SAP affiliate company.
  * Licensed under the Apache License, Version 2.0 - see LICENSE.txt.</copyright>
-	<version>1.50.2</version>
+	<version>1.50.3</version>
 
 	<documentation>UI5 library: sap.ui.support</documentation>
 
@@ -29,9 +29,6 @@
 	</dependencies>
 
 	<appData>
-		 <documentation xmlns="http://www.sap.com/ui5/buildext/documentation"
-	        indexUrl="../../../../test-resources/sap/ui/support/demokit/docuindex.json"
-	        resolve="lib" />
 		<!-- excludes for the JSDoc -->
 		<jsdoc xmlns="http://www.sap.com/ui5/buildext/jsdoc">
 			<exclude name="sap.ui.support.js."/>
