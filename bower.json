@@ -1,7 +1,7 @@
 {
   "name": "openui5-sap.ui.support",
   "description": "OpenUI5 UI Library sap.ui.support",
-  "version": "1.54.2",
+  "version": "1.54.3",
   "license": "Apache-2.0",
   "ignore": [],
   "keywords": [
@@ -16,10 +16,10 @@
     "url": "https://github.com/SAP/openui5.git"
   },
   "dependencies": {
-    "openui5-sap.m": "openui5/packaged-sap.m#1.54.2",
-    "openui5-sap.ui.core": "openui5/packaged-sap.ui.core#1.54.2",
-    "openui5-sap.ui.layout": "openui5/packaged-sap.ui.layout#1.54.2",
-    "openui5-sap.ui.fl": "openui5/packaged-sap.ui.fl#1.54.2",
-    "openui5-sap.ui.codeeditor": "openui5/packaged-sap.ui.codeeditor#1.54.2"
+    "openui5-sap.m": "openui5/packaged-sap.m#1.54.3",
+    "openui5-sap.ui.core": "openui5/packaged-sap.ui.core#1.54.3",
+    "openui5-sap.ui.layout": "openui5/packaged-sap.ui.layout#1.54.3",
+    "openui5-sap.ui.fl": "openui5/packaged-sap.ui.fl#1.54.3",
+    "openui5-sap.ui.codeeditor": "openui5/packaged-sap.ui.codeeditor#1.54.3"
   }
 }
