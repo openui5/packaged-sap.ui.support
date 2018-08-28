@@ -316,7 +316,7 @@ sap.ui.define([
 					sap.ui.require([sLibraryName.replace(/\./g, "/") + "/library.support"], function () {
 						fnProcessFile.call(that, sLibraryName);
 						resolve();
-					});
+					}, resolve);
 				} catch (ex) {
 					resolve();
 				}
