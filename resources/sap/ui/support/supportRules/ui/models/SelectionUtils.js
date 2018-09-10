@@ -72,15 +72,14 @@ sap.ui.define([
 		 * @returns {Array} Rule selections array
 		 */
 		updateSelectedRulesFromLocalStorage: function (oTreeViewModelRules) {
-
 			var aSelectedRules = storage.getSelectedRules();
 
 			if (!aSelectedRules) {
-				return;
+				return null;
 			}
 
 			if (!oTreeViewModelRules) {
-				return;
+				return null;
 			}
 
 

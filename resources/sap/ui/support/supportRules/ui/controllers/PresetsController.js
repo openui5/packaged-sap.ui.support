@@ -52,7 +52,7 @@ sap.ui.define([
 	 *
 	 * @extends sap.ui.support.supportRules.ui.controllers.BaseController
 	 * @author SAP SE
-	 * @version 1.58.1
+	 * @version 1.58.2
 	 * @private
 	 * @alias sap.ui.support.supportRules.ui.controllers.PresetsController
 	 */

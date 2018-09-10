@@ -37,7 +37,7 @@ function (jQuery, storage, constants) {
 	 * @name sap.ui.support.RuleSet
 	 * @memberof sap.ui.support
 	 * @author SAP SE
-	 * @version 1.58.1
+	 * @version 1.58.2
 	 * @param {object} oSettings Name of the initiated
 	 * @returns {void}
 	 */
@@ -225,6 +225,21 @@ function (jQuery, storage, constants) {
 
 		return sRuleVerificationStatus;
 	};
+
+	/**
+	 * Remove rule from RuleSet.
+	 * @public
+	 * @method
+	 * @name sap.ui.support.RuleSet.removeRule
+	 * @memberof sap.ui.support.RuleSet
+	 * @param {object} oRule Rule object that will be removed
+	 */
+	RuleSet.prototype.removeRule = function (oRule) {
+		if (this._mRules[oRule.id]) {
+			delete this._mRules[oRule.id];
+		}
+	};
+
 
 	/**
 	 * Stores which rules are selected to be run by the analyzer on the next check
