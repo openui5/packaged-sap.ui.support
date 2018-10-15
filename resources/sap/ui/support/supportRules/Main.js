@@ -56,7 +56,7 @@ function (jQuery, ManagedObject, Analyzer, CoreFacade,
 				 * @namespace
 				 * @alias jQuery.sap.support
 				 * @author SAP SE
-				 * @version 1.58.3
+				 * @version 1.58.4
 				 * @public
 				 */
 				jQuery.sap.support = {
