@@ -23,7 +23,7 @@ sap.ui.define(["sap/ui/core/library"],
 	 * @namespace
 	 * @name sap.ui.support
 	 * @author SAP SE
-	 * @version 1.56.15
+	 * @version 1.56.16
 	 *
 	 * @public
 	 */
@@ -41,7 +41,7 @@ sap.ui.define(["sap/ui/core/library"],
 		controls: [],
 		elements: [],
 		noLibraryCSS: true,
-		version: "1.56.15",
+		version: "1.56.16",
 		extensions: {
 			//Configuration used for rule loading of Support Assistant
 			"sap.ui.support": {
@@ -53,7 +53,7 @@ sap.ui.define(["sap/ui/core/library"],
 	/**
 	 * Defines severity types.
 	 * @enum {string}
-	 * @since 1.56.15
+	 * @since 1.56.16
 	 * @public
 	 */
 	sap.ui.support.Severity = {
@@ -77,7 +77,7 @@ sap.ui.define(["sap/ui/core/library"],
 	/**
 	 * Defines the Audiences.
 	 * @enum {string}
-	 * @since 1.56.15
+	 * @since 1.56.16
 	 * @public
 	 */
 	sap.ui.support.Audiences = {
@@ -101,7 +101,7 @@ sap.ui.define(["sap/ui/core/library"],
 	/**
 	 * Issue Categories.
 	 * @enum {string}
-	 * @since 1.56.15
+	 * @since 1.56.16
 	 * @public
 	 */
 	sap.ui.support.Categories = {
