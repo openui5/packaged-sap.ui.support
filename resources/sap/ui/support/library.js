@@ -1,6 +1,6 @@
 /*!
  * UI development toolkit for HTML5 (OpenUI5)
- * (c) Copyright 2009-2018 SAP SE or an SAP affiliate company.
+ * (c) Copyright 2009-2019 SAP SE or an SAP affiliate company.
  * Licensed under the Apache License, Version 2.0 - see LICENSE.txt.
  */
 
@@ -20,7 +20,7 @@ The library provides the Support Assistant tool. It enables application develope
 	 * @namespace
 	 * @name sap.ui.support
 	 * @author SAP SE
-	 * @version 1.52.23
+	 * @version 1.52.24
 	 *
 	 * @public
 	 */
@@ -39,13 +39,13 @@ The library provides the Support Assistant tool. It enables application develope
 		controls: [],
 		elements: [],
 		noLibraryCSS: false,
-		version: "1.52.23"
+		version: "1.52.24"
 	});
 
 	/**
 	 * Defines severity types.
 	 * @enum {string}
-	 * @since 1.52.23
+	 * @since 1.52.24
 	 * @public
 	 */
 	sap.ui.support.Severity = {
@@ -69,7 +69,7 @@ The library provides the Support Assistant tool. It enables application develope
 	/**
 	 * Defines the Audiences.
 	 * @enum {string}
-	 * @since 1.52.23
+	 * @since 1.52.24
 	 * @public
 	 */
 	sap.ui.support.Audiences = {
@@ -93,7 +93,7 @@ The library provides the Support Assistant tool. It enables application develope
 	/**
 	 * Issue Categories.
 	 * @enum {string}
-	 * @since 1.52.23
+	 * @since 1.52.24
 	 * @public
 	 */
 	sap.ui.support.Categories = {
