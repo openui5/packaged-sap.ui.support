@@ -21,7 +21,7 @@ function (jQuery) {
 	 * @name sap.ui.support.WindowCommunicationBus
 	 * @memberof sap.ui.support
 	 * @author SAP SE
-	 * @version 1.52.27
+	 * @version 1.52.28
 	 * @private
 	 */
 	var CommunicationBus = {
