@@ -22,7 +22,7 @@ sap.ui.define([
  * @name sap.ui.support.Storage
  * @alias sap.ui.support.Storage
  * @author SAP SE.
- * @version 1.52.34
+ * @version 1.52.35
  *
  * @private
  *
