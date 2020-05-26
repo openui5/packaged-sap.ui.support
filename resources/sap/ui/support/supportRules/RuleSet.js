@@ -37,7 +37,7 @@ function (jQuery, storage, constants) {
 	 * @name sap.ui.support.RuleSet
 	 * @memberof sap.ui.support
 	 * @author SAP SE
-	 * @version 1.52.40
+	 * @version 1.52.41
 	 * @param {object} oSettings Name of the initiated
 	 * @returns {void}
 	 */
